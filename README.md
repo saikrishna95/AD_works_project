@@ -69,7 +69,8 @@ AD_Works_Project/
 An interactive dashboard visualizes campaign performance, trends, and recommendations. See `dashboard/dashboard.pbix`.
 
 #### Preview
-![alt text](image.png)
+<img width="654" height="370" alt="image" src="https://github.com/user-attachments/assets/cd9b3c65-5ac7-46ae-8a25-a96f3e9d3494" />
+
 
 
 ## How to Run This Project
